@@ -20,7 +20,7 @@ const path = require("path")
  */
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic = "cost result poverty cinnamon zoo square grace bar autumn lab dad soul"
+const mnemonic = "ENTER YOUR METAMASK SECRET KEY"
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
